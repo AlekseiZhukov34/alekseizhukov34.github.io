@@ -5,7 +5,7 @@
       {
         "appID": "WLHLHPJP4S.io.laoshi.Laoshi",
         "paths": [
-          "/wordlist/*/"
+          "*"
         ]
       }
     ]
