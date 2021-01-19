@@ -1,12 +1,12 @@
 {
   "webcredentials": {
-    "apps": ["WLHLHPJP4S.io.laoshi.Laoshi"]
+    "apps": ["47FZSY3R46.io.laoshi.Laoshi"]
   },
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "WLHLHPJP4S.io.laoshi.Laoshi",
+        "appID": "47FZSY3R46.io.laoshi.Laoshi",
         "paths": [
           "*", "/"
         ]
