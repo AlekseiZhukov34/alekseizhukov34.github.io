@@ -1,8 +1,6 @@
 {
-  "activitycontinuation": {
-    "apps": [
-      "WLHLHPJP4S.io.laoshi.Laoshi"
-    ]
+  "webcredentials": {
+    "apps": ["WLHLHPJP4S.io.laoshi.Laoshi"]
   },
   "applinks": {
     "apps": [],
