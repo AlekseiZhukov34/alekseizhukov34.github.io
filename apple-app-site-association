@@ -13,7 +13,7 @@
             "appID":"47FZSY3R46.io.laoshi.Laoshi",
             "paths":[
                "/pay/",
-               "/wordlist/"
+               "/wordlist/*/"
             ],
             "appIDs":[
                "47FZSY3R46.io.laoshi.Laoshi"
@@ -23,7 +23,7 @@
                   "/":"/pay/"
                },
                {
-                  "/":"/wordlist/"
+                  "/":"/wordlist/*/"
                }
             ]
          }
