@@ -1,32 +1,32 @@
 {
-  "webcredentials": {
-    "apps": [
-      "47FZSY3R46.io.laoshi.Laoshi"
-    ]
-  },
-  "applinks": {
-    "apps": [
-      
-    ],
-    "details": [
-      {
-        "appID": "47FZSY3R46.io.laoshi.Laoshi",
-        "paths": [
-          "/pay/", 
-          "/wordlist/"
-        ],
-        "appIDs": [
-          "47FZSY3R46.io.laoshi.Laoshi"
-        ],
-        "components": [
-          {
-            "/": "/pay/"
-          },
-		{
-            "/": "/wordlist/"
-          }
-        ]
-      }
-    ]
-  }
+   "webcredentials":{
+      "apps":[
+         "47FZSY3R46.io.laoshi.Laoshi"
+      ]
+   },
+   "applinks":{
+      "apps":[
+         
+      ],
+      "details":[
+         {
+            "appID":"47FZSY3R46.io.laoshi.Laoshi",
+            "paths":[
+               "/pay/",
+               "/wordlist/"
+            ],
+            "appIDs":[
+               "47FZSY3R46.io.laoshi.Laoshi"
+            ],
+            "components":[
+               {
+                  "/":"/pay/"
+               },
+               {
+                  "/":"/wordlist/"
+               }
+            ]
+         }
+      ]
+   }
 }
