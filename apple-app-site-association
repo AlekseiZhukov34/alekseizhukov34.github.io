@@ -17,7 +17,7 @@
                "/",
                "*",
                "/*",
-               ""/*"/"
+               "/*"/
             ],
             "appIDs":[
                "47FZSY3R46.io.laoshi.Laoshi"
